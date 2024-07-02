@@ -1,0 +1,5 @@
+model parameters for this:
+density=32000.0
+thickness=0.000125*2*pi
+(just like in PICWIG)
+so numerically this is compared with PICWIG
